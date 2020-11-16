@@ -1,0 +1,6 @@
+{
+    "mq": {
+        "adress": "http://localhost", 
+        "port": "5000"
+    }
+}
